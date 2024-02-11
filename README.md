@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @PhinThePlatypusGirl
+- 👋 Hi, I’m Noemi Marfella
 - 👀 I’m interested in Videogames
-- 🌱 I’m currently learning C#
+- 🌱 I’m currently learning C - C++
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
